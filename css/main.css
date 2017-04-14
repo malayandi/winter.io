@@ -91,12 +91,17 @@ section nav a:active {
     text-decoration: none;
 }
 
+.dropdown-menu {
+    width: 100%;
+}
+
 .btn {
     outline: none;
     border: none;
 }
 
 .btn:hover {
+    width: 100%;
     background-color: white;
 }
 
