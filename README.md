@@ -1,7 +1,8 @@
-# `white.io`
+# white.io
 A Minimalistic, Adaptive HTML Template for A Personal Website.
 
-Demo: andypalan.com/white.io
+[Demo](https://andypalan.com/white.io)
+
 
 This template is mobile-friendly and works well across devices of all sizes. It has thus far been largely used for academically-inclined personal websites, but can easily be adapted for other uses.
 
