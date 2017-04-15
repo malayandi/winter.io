@@ -1,5 +1,5 @@
 # winter.io
-A Minimalistic, Adaptive HTML Template for A Personal Website. Demo: [https://andypalan.com/winter.io](https://andypalan.com/winter.io)
+`winter.io` is a minimalistic, adaptive HTML template for a personal website. Demo: [https://andypalan.com/winter.io](https://andypalan.com/winter.io)
 
 
 This basic template is mobile-friendly and works well across devices of all sizes. It has thus far been largely used for academically-inclined personal websites, but can easily be adapted for other uses.
